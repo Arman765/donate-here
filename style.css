@@ -1,0 +1,151 @@
+body{
+    
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+   
+}
+
+.front-page{
+    padding:10% 30% 10% 30% ;
+    text-align: center;
+    background-image: url('images/donate1.jpg');
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+.front-page h1{
+    font-size: 60px;
+}
+
+.btn{
+    margin-top: 5px;
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: #FF5959;
+    border-radius: 5px;
+    font-size: large;
+    color: white;
+}
+
+.donating{
+ /* padding:10% 30% 10% 30% ; */
+    text-align: center;
+    margin-bottom: 20px;
+}
+.donating p{
+    /* padding:10% 30% 10% 30% ; */
+       font-size: 30px;
+       margin-left: 20%;
+    margin-right: 20%;
+}
+
+.donating h1{
+    font-size: 60px;
+}
+
+.donation-size{
+    display: flex;
+    margin-left: 300px;
+    
+}
+
+.donation-item{
+    margin: 10px;
+    background-color:#FAFAFA;
+    padding: 1% 2%;
+    border-radius: 10%;
+    font-size: 40px;
+    font-weight: 400;
+    
+}
+
+#different-color{
+    background-color: #FFEEEE;
+    color: #FF5959;
+    border: 5px solid #FF5959;
+}
+
+.textarea {
+    margin: 10px;
+    font-size: 20px;
+    border: none;
+    background-color: transparent;
+    resize: none;
+    outline: none;
+}
+
+hr {
+    width:50%;
+   
+
+}
+
+.donate-plan{
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+
+.donate-plan h1{
+    font-size: 60px;
+}
+
+.donate-plan p{
+    font-size: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.plan-style{
+    display: flex;
+    margin-left: 20px;
+    text-align: left;
+}
+
+.donate-plan h1{
+    font-size: 60px;
+}
+
+.plan-item h1{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+
+.plan-style p{
+    font-size: 25px;
+    margin-left: 0;
+}
+
+.plan-item{
+   
+    margin: 20px;
+    padding: 1%;
+    border-radius: 5px;
+    
+}
+
+#first-plan{
+    background-color: #D3E7E9;
+}
+#second-plan{
+    background-color: #FFDCDC;
+}
+#third-plan{
+    background-color: #FFF4D6;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    color: #FF5959;
+    padding: 1%;
+    
+}
+#footer-line{
+    color: white;
+}
+
+
