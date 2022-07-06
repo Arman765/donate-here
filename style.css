@@ -176,6 +176,14 @@ footer{
     
 
 }
+.form-item button{
+    border: none;
+    outline: none;
+    background: none;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
 
 .positioning{
     margin-left: 20%;
